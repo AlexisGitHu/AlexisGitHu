@@ -19,13 +19,13 @@
 
 ## 🎓 Education
 <ul style="list-style: none; padding-left: 0;">
-    <li style="position: relative; padding-left: 30px;">
-        <img src="assets/utad.png" alt="Icon" style="width: 20px; height: 20px; position: absolute; left: 0; top: 0;">
-        U-TAD - BSc Software Engineering
+    <li style="display: flex; align-items: center; padding-left: 30px;">
+    <img src="assets/utad.png" alt="Icon" style="width: 20px; height: 20px; margin-right: 10px;">
+    U-TAD - BSc Software Engineering
     </li>
-    <li style="position: relative; padding-left: 30px;">
-        <img src="assets/utad.png" alt="Icon" style="width: 20px; height: 20px; position: absolute; left: 0; top: 0;">
-        U-TAD - BSc Computational Mathematics
+    <li style="display: flex; align-items: center; padding-left: 30px;">
+    <img src="assets/utad.png" alt="Icon" style="width: 20px; height: 20px; margin-right: 10px;">
+    U-TAD - BSc Computational Mathematics
     </li>
   <!-- Add more items here -->
 </ul>
