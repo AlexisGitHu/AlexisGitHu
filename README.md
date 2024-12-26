@@ -1,86 +1,7 @@
-<style>
-ul.custom-list, ul.custom-list2, ul.custom-list3, ul.custom-list4 {
-  list-style: none;
-  padding-left: 0;
-}
-
-ul.custom-list li, ul.custom-list2 li, ul.custom-list3 li, ul.custom-list4 li {
-  position: relative;
-  padding-left: 30px;
-}
-
-ul.custom-list li::before, ul.custom-list2 li::before, ul.custom-list3 li::before, ul.custom-list4 li::before {
-  content: "";
-  background-repeat: no-repeat;
-  background-position: center;
-  background-size: 20px 20px;
-  width: 20px;
-  height: 20px;
-  position: absolute;
-  left: 0;
-  top: 0;
-}
-
-ul.custom-list li::before {
-  background-image: url('assets/utad.png');
-}
-
-ul.custom-list2 li::before {
-  background-image: url('assets/icmat.png');
-}
-
-ul.custom-list3 li::before {
-  background-image: url('assets/hpe.png');
-}
-ul.custom-list4 li::before {
-  background-image: url('assets/linkedin.png');
-}
-
-.code-block {
-  background-color: #151b23; /* GitHub light gray background */
-  border: 1px solid #e1e4e8; /* Light border */
-  border-radius: 6px; /* Rounded corners */
-  font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace;
-  font-size: 14px;
-  line-height: 1;
-  animation: borderPulse 3s infinite alternate;
-}
-
-@keyframes borderPulse {
-  0% {
-    border-color: #0065EF;
-  }
-  50% {
-    border-color: #F8AA25; /* Light Blue */
-  }
-  100% {
-    border-color: #01A982; /* Green */
-  }
-}
-.profile-block {
-  display: flex;
-  align-items: center;
-  gap: 20px; /* Space between image and text */
-  padding: 10px;
-  font-family: Arial, sans-serif;
-}
-
-.profile-block img {
-  width: 100px;
-  height: auto;
-}
-
-.profile-block .profile-text {
-  flex: 1; /* Allows text to occupy remaining space */
-}
-</style>
-
-
-
 
 <div style="display:flex; align-items: center; gap: 20px; padding:10px;font-family: Arial, sans-serif;">
   <img style="width: 100px; height: auto;" src="assets/illidan.gif" alt="Illidan GIF" />
-  <div class="profile-text">
+  <div style="flex: 1;">
     <h3>Hey! 👋</h3>
     <p>
       I’m <strong>Alexis Gómez</strong>, <em>AI & Data Engineer</em> at <strong>HPE</strong> 
@@ -90,24 +11,40 @@ ul.custom-list4 li::before {
   </div>
 </div>
 
-<div class="code-block">
+<div style="background-color: #151b23; border: 1px solid #01A982; border-radius: 6px; font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace; font-size: 14px; line-height: 1;">
     <h3 align="center">🚀 Enjoy exploring 🚀</h3>
 </div>                                
 
 
 ## 🎓 Education
-<ul class="custom-list">
-  <li>U-TAD - BSc Software Engineering</li>
-  <li>U-TAD - BSc Computational Mathematics</li>
+<ul style="list-style: none; padding-left: 0;">
+    <li style="position: relative; padding-left: 30px;">
+        <img src="assets/utad.png" alt="Icon" style="width: 20px; height: 20px; position: absolute; left: 0; top: 0;">
+        U-TAD - BSc Software Engineering
+    </li>
+    <li style="position: relative; padding-left: 30px;">
+        <img src="assets/utad.png" alt="Icon" style="width: 20px; height: 20px; position: absolute; left: 0; top: 0;">
+        U-TAD - BSc Computational Mathematics
+    </li>
+  <!-- Add more items here -->
 </ul>
-<ul class="custom-list2">
-  <li>ICMAT - Student Researcher in Symplectic Optimization and Lie Groups</li>
+<ul style="list-style: none; padding-left: 0;">
+  <li style="position: relative; padding-left: 30px;">
+    <img src="assets/icmat.png" alt="Icon" style="width: 20px; height: 20px; position: absolute; left: 0; top: 0;">
+    ICMAT - Student Researcher in Symplectic Optimization and Lie Groups
+  </li>
+  <!-- Add more items here -->
 </ul>
 
 ## 💼 Career Journey
-<ul class="custom-list3">
-  <li>HPE - AI & Data consultant</li>
+<ul style="list-style: none; padding-left: 0;">
+    <li style="position: relative; padding-left: 30px;">
+        <img src="assets/hpe.png" alt="Icon" style="width: 20px; height: 20px; position: absolute; left: 0; top: 0;">
+        HPE - AI & Data consultant
+    </li>
+  <!-- Add more items here -->
 </ul>
+
 
 
 ## 📚 Personal Projects
@@ -134,8 +71,11 @@ Analyzing ecological network structures using spectral methods to better underst
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,javascript,typescript,nodejs,postgresql,cassandra,kafka,java,c,tensorflow)](https://skillicons.dev)
 
-## 📱 Contact
-Feel free to connect with me:
-<ul class="custom-list4">
- <li><a href="https://www.linkedin.com/in/alexis-g%C3%B3mez-chimeno/">About me</a></li>
+## 📱 Feel free to connect
+### 
+<ul style="list-style: none; padding-left: 0;">
+  <li style="position: relative; padding-left: 30px;">
+    <img src="assets/linkedin.png" alt="Icon" style="width: 20px; height: 20px; position: absolute; left: 0; top: 0;">
+    <a href="https://www.linkedin.com/in/alexis-g%C3%B3mez-chimeno/">About me</a>
+  </li>
 </ul>
