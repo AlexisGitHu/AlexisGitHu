@@ -78,8 +78,8 @@ ul.custom-list4 li::before {
 
 
 
-<div class="profile-block">
-  <img src="assets/illidan.gif" alt="Illidan GIF" />
+<div style="display:flex; align-items: center; gap: 20px; padding:10px;font-family: Arial, sans-serif;">
+  <img style="width: 100px; height: auto;" src="assets/illidan.gif" alt="Illidan GIF" />
   <div class="profile-text">
     <h3>Hey! 👋</h3>
     <p>
