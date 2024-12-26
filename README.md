@@ -58,5 +58,5 @@ Analyzing ecological network structures using spectral methods to better underst
 
 ## 📱 Feel free to connect
 ### 
-- <img src="assets/linkedin.png" alt="Icon" style="width: 20px; height: 20px; position: absolute; left: 0; top: 0;"> <a style="margin-left: 30px; margin-bottom: 19px;" href="https://www.linkedin.com/in/alexis-g%C3%B3mez-chimeno/">About me</a>
+- <img src="assets/linkedin.png" alt="Icon" style="width: 20px; height: 20px;"> <a style="margin-left: 30px; margin-bottom: 19px;" href="https://www.linkedin.com/in/alexis-g%C3%B3mez-chimeno/">About me</a>
 
