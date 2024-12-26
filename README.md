@@ -1,15 +1,16 @@
 
-<div style="display:flex; align-items: center; gap: 20px; padding:10px;font-family: Arial, sans-serif;">
-  <img style="width: 100px; height: auto;" src="assets/illidan.gif" alt="Illidan GIF" />
+<div style="display: flex; align-items: center; gap: 20px; padding: 10px; font-family: Arial, sans-serif;">
+  <img style="width: 100px; height: auto; flex-shrink: 0;" src="assets/illidan.gif" alt="Illidan GIF" />
   <div style="flex: 1;">
     <h3>Hey! 👋</h3>
     <p>
-      I’m <strong>Alexis Gómez</strong>, <em>AI & Data Engineer</em> at <strong>HPE</strong> 
-      and <strong>BSc in Software Engineering and Mathematics</strong>. Take a look at the projects 
+      I’m <strong>Alexis Gómez</strong>, <em>AI & Data Engineer</em> at <strong>HPE</strong>
+      and <strong>BSc in Software Engineering and Mathematics</strong>. Take a look at the projects
       I've developed over the years and can publicly share.
     </p>
   </div>
 </div>
+
 
 <div style="background-color: #151b23; border: 1px solid #01A982; border-radius: 6px; font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace; font-size: 14px; line-height: 1;">
     <h3 align="center">🚀 Enjoy exploring 🚀</h3>
