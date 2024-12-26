@@ -20,7 +20,7 @@
 ## 🎓 Education
 <ul style="list-style: none; padding-left: 0;">
     <li style="display: flex; align-items: center; padding-left: 30px;">
-    <img src="assets/utad.png" alt="Icon" style="width: 20px; height: 20px; margin-right: 10px;">
+    <img src="assets/utad.png" alt="Icon" style="width: 20px; height: 20px; padding-top: 10px; margin-right: 10px;">
     U-TAD - BSc Software Engineering
     </li>
     <li style="display: flex; align-items: center; padding-left: 30px;">
