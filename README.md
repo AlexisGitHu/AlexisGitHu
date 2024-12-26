@@ -1,6 +1,6 @@
 
-<div style="display: flex; align-items: center; gap: 20px; padding: 10px; font-family: Arial, sans-serif;">
-  <img style="width: 100px; height: auto; flex-shrink: 0;" src="assets/illidan.gif" alt="Illidan GIF" />
+<div>
+  <img style="width: 100px; height: auto;" align="left" src="assets/illidan.gif" alt="Illidan GIF" />
   <div style="flex: 1;">
     <h3>Hey! 👋</h3>
     <p>
