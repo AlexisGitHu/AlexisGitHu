@@ -20,14 +20,14 @@
 ## 🎓 Education
 |  |  |
 | :-: | :-: |
-|<img src="assets/utad.png" alt="Icon" style="width: 20px; height: 20px; padding-top: 10px; margin-right: 10px; align-">  | BSc Software Engineering|
-| <img src="assets/utad.png" alt="Icon" style="width: 20px; height: 20px; padding-top: 10px; margin-right: 10px; align-"> | BSc Computational Mathematics | 
-| <img src="assets/icmat.png" alt="Icon" style="width: 20px; height: 20px; padding-top: 10px; margin-right: 10px; align-"> | Student Researcher in Symplectic Optimization and Lie Groups |
+|<img src="assets/utad.png" alt="Icon" style="width: 20px; height: 20px; margin-right: 10px;>  | BSc Software Engineering|
+| <img src="assets/utad.png" alt="Icon" style="width: 20px; height: 20px;   margin-right: 10px;"> | BSc Computational Mathematics | 
+| <img src="assets/icmat.png" alt="Icon" style="width: 20px; height: 20px;  margin-right: 10px;"> | Student Researcher in Symplectic Optimization and Lie Groups |
 
 ## 💼 Career Journey
 |  |  |
 | :-: | :-: |
-| <img src="assets/hpe.png" alt="Icon" style="width: 20px; height: 20px; padding-top: 10px; margin-right: 10px; align-"> | AI & Data consultant |
+| <img src="assets/hpe.png" alt="Icon" style="width: 20px; height: 20px; padding-top: 10px; margin-right: 10px;"> | AI & Data consultant |
 
 
 
