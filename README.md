@@ -24,12 +24,7 @@
         <img src="https://github-profile-trophy.vercel.app/?username=AlexisGitHu&title=-Followers&theme=algolia&no-bg=true&no-frame=true" />
   </td>
 </table>
-
-<div style="background-color: #151b23; border: 1px solid #01A982; border-radius: 6px; font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace; font-size: 14px; line-height: 1;">
-    <h3 align="center">🚀 Enjoy exploring 🚀</h3>
-</div>                                
-
-
+              
 ## 🎓 Education
 |  |  |
 | :-: | :-: |
