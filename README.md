@@ -10,7 +10,19 @@
     </p>
   </div>
 </div>
-
+<table>
+  <tr>
+    <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=AlexisGitHu&count_private=true&show_icons=true&theme=transparent&hide_border=true" />
+    </td>
+    <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexisGitHu&layout=compact&theme=transparent&hide_border=true&size_weight=0.5&count_weight=0.5&exclude_repo=xformers-prebuild-wheels,AlexisGitHu.github.io" />
+    </td>
+  </tr>
+  <td colspan=2>
+        <img src="https://github-profile-trophy.vercel.app/?username=AlexisGitHu&title=-Followers&theme=algolia&no-bg=true&no-frame=true" />
+  </td>
+</table>
 
 <div style="background-color: #151b23; border: 1px solid #01A982; border-radius: 6px; font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace; font-size: 14px; line-height: 1;">
     <h3 align="center">🚀 Enjoy exploring 🚀</h3>
