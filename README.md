@@ -35,6 +35,7 @@
 ## 💼 Career Journey
 |  |  |
 | :-: | :-: |
+| <img src="assets/hpe.png" alt="Icon" style="width: 20px; height: 20px; padding-top: 10px; margin-right: 10px;"> | Private Cloud AI Software Engineer |
 | <img src="assets/hpe.png" alt="Icon" style="width: 20px; height: 20px; padding-top: 10px; margin-right: 10px;"> | AI & Data consultant |
 
 
